@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+  color: #123836;
+}
+
+#calendar {
+  max-width: 900px;
+  margin: 30px auto;
+  background: white;
+  padding: 15px;
+  border-radius: 12px;
+}
